@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DA Course
-tagline: Sharif DA
-description: Sharif University Designing Algorithms Course
-author: Sharif DA
+title: CD Course
+tagline: Sharif CD
+description: Sharif University Compiler Design Course
+author: Sharif CD
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://sharif-da.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://sut-compiler.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 logo: "/assets/images/logo.png"

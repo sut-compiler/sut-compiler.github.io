@@ -1,11 +1,11 @@
 ---
 layout: home
-title: DA Course
+title: CD Course
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Designing Algorithms
+  name: Compiler Design
 ---
 
 # Designing Algorithms Course

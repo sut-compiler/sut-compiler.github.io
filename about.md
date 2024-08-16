@@ -6,7 +6,7 @@ description: >-
     Course policies and information.
 ---
 
-# Designing Algorithms Course Syllabus
+# Compiler Design Course Syllabus
 {:.no_toc}
 
 ## Table of contents
