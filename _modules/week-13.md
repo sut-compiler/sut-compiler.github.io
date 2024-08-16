@@ -1,10 +1,7 @@
 ---
 week: 13
-title: Graphs I
+title: Compiler Writing
 ---
 
 Azar 28
-: **Lecture 23**{: .label .label-purple } Graph Implementation
-
-Azar 30
-: **Midterm Exam 2**{: .label .label-red }
+: **Lecture 14**{: .label .label-purple } Compiler Writing

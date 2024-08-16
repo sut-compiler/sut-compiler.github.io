@@ -1,7 +1,7 @@
 ---
 week: 2
-title: Complexity Analysis I
+title: Lexical Analysis
 ---
 
 Mehr 9
-: **Lecture 2**{: .label .label-purple } Time complexity analysis: Insertion Sort
+: **Lecture 2**{: .label .label-purple } Lexical Analysis

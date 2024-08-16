@@ -1,10 +1,7 @@
 ---
 week: 5
-title: Data Structures
+title: Top-Down Parsing
 ---
 
 Mehr 30
-: **Lecture 7**{: .label .label-purple } Linked List and Queue
-
-Aban 2
-: **Lecture 8**{: .label .label-purple } Stack
+: **Lecture 5**{: .label .label-purple } Top-Down Parsing

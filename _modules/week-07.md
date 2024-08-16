@@ -1,10 +1,10 @@
 ---
 week: 7
-title: Trees
+title: Semantic Analysis
 ---
 
 Aban 14
-: **Lecture 11**{: .label .label-purple } Expression Trees
+: **Lecture 7**{: .label .label-purple } Semantic Analysis
 
 Aban 16
-: **Lecture 12**{: .label .label-purple } Trie and Priority Queue
+: **Midterm Exam**{: .label .label-red }

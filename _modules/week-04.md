@@ -1,10 +1,7 @@
 ---
 week: 4
-title: Divide and Conquer
+title: Intro to Parsing
 ---
 
 Mehr 23
-: **Lecture 5**{: .label .label-purple } Master Theorem
-
-Mehr 25
-: **Lecture 6**{: .label .label-purple } Amortized Analysis
+: **Lecture 4**{: .label .label-purple } Intro to Parsing

@@ -1,10 +1,7 @@
 ---
 week: 11
-title: Advanced Data Structures
+title: Local Optimizations
 ---
 
-Azar 12
-: **Lecture 19**{: .label .label-purple } Segment Tree and Interval Tree
-
-Azar 14
-: **Lecture 20**{: .label .label-purple } Disjoint Set Union
+Azar 11
+: **Lecture 11**{: .label .label-purple } Local Optimizations

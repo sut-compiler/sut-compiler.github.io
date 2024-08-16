@@ -1,10 +1,7 @@
 ---
 week: 3
-title: Complexity Analysis II
+title: Implementation of Lexical Analysis
 ---
 
 Mehr 16
-: **Lecture 3**{: .label .label-purple } Function growth and Big-O notation
-
-Mehr 18
-: **Lecture 4**{: .label .label-purple } Merge Sort
+: **Lecture 3**{: .label .label-purple } Implementation of Lexical Analysis

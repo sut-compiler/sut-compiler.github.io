@@ -1,10 +1,10 @@
 ---
 week: 12
-title: Hashing
+title: Optimization Methods
 ---
 
 Azar 19
-: **Lecture 21**{: .label .label-purple } Local Hashing and Universal Hashing
+: **Lecture 12**{: .label .label-purple } Global Optimizations
 
 Azar 21
-: **Lecture 22**{: .label .label-purple } Full Hashing
+: **Lecture 13**{: .label .label-purple } Register Allocation

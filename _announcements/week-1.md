@@ -4,4 +4,4 @@ week: 1
 date: 2023-10-15
 ---
 
-Welcome to DA course. please join the [quera](https://quera.org/) to submit the assignments.
+Welcome to Compiler Design course. please join the [quera](https://quera.org/) to submit the assignments.
