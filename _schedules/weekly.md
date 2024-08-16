@@ -21,24 +21,19 @@ timeline:
   - '6:00 PM'
 schedule:
   - name: Saturday
+      events:
+      - name: Lecture
+        start: 4:30 PM
+        end: 6:00 PM
+        location: 201 Computer Engineering
   - name: Sunday
-    events:
-      - name: Lecture
-        start: 9:00 AM
-        end: 10:30 AM
-        location: 101 Computer Engineering
   - name: Monday
-  - name: Tuesday
-    events:
+      events:
       - name: Lecture
-        start: 9:00 AM
-        end: 10:30 AM
-        location: 101 Computer Engineering
+        start: 4:30 PM
+        end: 6:00 PM
+        location: 201 Computer Engineering
+  - name: Tuesday
   - name: Wednesday
   - name: Thursday
-    events:
-      - name: TA Class
-        start: 3:00 PM
-        end: 4:30 PM
-        location: Virtual Classroom
 ---
