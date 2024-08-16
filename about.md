@@ -18,7 +18,7 @@ description: >-
 ---
 
 ## Course Description
-This course offers students an in-depth exploration of fundamental computer science concepts. Covering topics such as time and space complexity analysis, various data structures like linked lists, stacks, queues, and heaps, as well as advanced algorithms including tree and graph traversal, sorting techniques, binary search trees, hashing, and shortest path algorithms like Dijkstra and Bellman-Ford, the course equips students with a comprehensive understanding of efficient algorithm design and implementation for diverse problem-solving scenarios.
+This course is tailored for students interested in the foundational concepts of computer science, focusing on the design and construction of compilers. Despite the limited variety in compiler construction methodologies, these techniques are versatile and can be applied to create interpreters and translators for a broad and diverse spectrum of languages and machines. In this course, students will be introduced to the main components of a compiler, their functions, and their interrelationships. Beginning with an overview of compiler components and various grammars, the course will detail the different phases of translation, including lexical analysis, syntactic analysis, semantic analysis, and code generation and optimization.
 
 ## Assessment
 - Assignments and quizzes
