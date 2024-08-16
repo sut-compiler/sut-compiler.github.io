@@ -1,7 +1,7 @@
 ---
-name: Mohammad Ali Abam
+name: Samane Hosseinmardi
 role: Instructor
-email: abam@sharif.edu
-website: https://sharif.edu/~abam/
-photo: abam.jpg
+email: samane.hosseinmardi@sharif.edu
+website: https://micro.ce.sharif.edu/faculty/hosseinmardi
+photo: hosseinmardi.jpg
 ---
