@@ -8,10 +8,20 @@ seo:
   name: Compiler Design
 ---
 
-# Designing Algorithms Course
+# Compiler Design Course
 
-This Course is designed to provide students, who have already completed Advanced Programming and Discrete Structures, with a comprehensive understanding of fundamental concepts in computer science. The course begins with a focus on time and space complexity analysis, enabling students to grasp the theoretical underpinnings of algorithmic efficiency. Emphasis is placed on understanding how to assess the efficiency of algorithms in terms of their execution time and memory requirements, thus enabling students to make informed decisions about algorithm selection for various problem-solving scenarios.
+This course is tailored for students interested in the foundational concepts of computer science, focusing on the design and construction of compilers. Despite the limited variety in compiler construction methodologies, these techniques are versatile and can be applied to create interpreters and translators for a broad and diverse spectrum of languages and machines. In this course, students will be introduced to the main components of a compiler, their functions, and their interrelationships. Beginning with an overview of compiler components and various grammars, the course will detail the different phases of translation, including lexical analysis, syntactic analysis, semantic analysis, and code generation and optimization.
 
-Moving forward, the course delves into various essential data structures, including linked lists, stacks, queues, and heaps. Students gain a profound understanding of how these structures operate, as well as their advantages and limitations in different contexts. Additionally, the course explores advanced topics such as tree and graph traversal, covering both breadth-first and depth-first search algorithms, allowing students to comprehend the nuances of navigating complex data structures. This segment of the course provides a solid foundation for understanding more intricate concepts, such as binary search trees and balanced trees, fostering a deeper understanding of data organization and management.
+## Course Breakdown:
+- Introduction: Basic concepts and overview of compiler structures.
+- Languages and Grammars: Exploration of different programming languages and their underlying grammars.
+- Lexical Analysis and Error Correction: Techniques for tokenizing input and correcting lexical errors.
+- Top-Down Syntactic Analysis: Covers top-down parsing strategies, including simple error handling and LL(1) parsing.
+- Bottom-Up Syntactic Analysis: Detailed exploration of bottom-up parsing techniques like operator precedence, simple precedence, and the LR(1) - parsing family, including SLR(1), LALR(1), and CLR(1).
+- Semantic Analysis: Understanding the meaning behind code structures and managing symbol tables.
+- Runtime Memory Allocation Techniques: Methods for managing memory during program execution.
+- Code Generation: Detailed mechanisms of translating high-level instructions into machine code.
+- Code Optimization: Techniques for improving the efficiency and performance of the generated code.
+- Automatic Compiler Generation: An introduction to tools and methodologies for automating compiler construction.
 
-Moreover, the course delves into essential sorting algorithms, equipping students with the skills to compare and contrast various sorting techniques based on their efficiency and applicability in different scenarios. The students also learn about the principles of hashing and its practical applications in data retrieval and storage. The course culminates with a comprehensive study of shortest path algorithms, focusing on Dijkstra's and Bellman-Ford algorithms, enabling students to grasp the intricacies of pathfinding in a variety of network structures. By the end of the course, students are well-prepared to tackle real-world problems that require a solid understanding of data structure and algorithmic principles.
+By the end of this course, students will be equipped with the skills necessary to understand and construct compilers that can effectively translate, optimize, and manage code across various computer systems, thereby solving real-world computational problems efficiently.
