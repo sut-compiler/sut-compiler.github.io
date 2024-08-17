@@ -27,5 +27,5 @@ This course is tailored for students interested in the foundational concepts of 
 - Class participation
 
 ## Prerequisites
-- Proficiency in Python or C++ programming
+- Proficiency in Python programming
 - Basic understanding of discrete structures

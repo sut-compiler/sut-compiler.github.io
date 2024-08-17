@@ -21,14 +21,14 @@ timeline:
   - '6:00 PM'
 schedule:
   - name: Saturday
-      events:
+    events:
       - name: Lecture
         start: 4:30 PM
         end: 6:00 PM
         location: 201 Computer Engineering
   - name: Sunday
   - name: Monday
-      events:
+    events:
       - name: Lecture
         start: 4:30 PM
         end: 6:00 PM
